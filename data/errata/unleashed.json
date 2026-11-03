@@ -1,0 +1,53 @@
+{
+  "source": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+  "errata": [
+    {
+      "card": "Guards!",
+      "set": "Spiritforged",
+      "old_text": "[Hidden] (Hide now for [A] to react with later for [0].)\n\nPlay a 2 [M] Sand Soldier unit token. You may pay [C] to ready it.",
+      "new_text": "[Hidden] (Hide now for [A] to react with later for [0].)\n\nPlay a 2 [M] Sand Soldier unit token. Then do this: You may pay [C] to ready it."
+    },
+    {
+      "card": "Relentless Pursuit",
+      "set": "Spiritforged",
+      "old_text": "[Action] (Play on your turn or in showdowns.)\n\nMove a friendly unit. You may attach an Equipment with the same controller to it. This turn, that unit has \"When I conquer, you may move me to my base.\"",
+      "new_text": "[Action] (Play on your turn or in showdowns.)\n\nMove a friendly unit. You may attach up to one Equipment with the same controller to it. This turn, that unit has \"When I conquer, you may move me to my base.\""
+    },
+    {
+      "card": "Death from Below",
+      "set": "Unleashed",
+      "old_text": "Kill a unit at a battlefield. Then, if it had 3 [M] or less, you may play this from your trash for [A].",
+      "new_text": "Kill a unit at a battlefield. Then, if it had 3 [M] or less, do this: You may play this from your trash for [A]."
+    },
+    {
+      "card": "Bone Skewer",
+      "set": "Unleashed",
+      "old_text": "[Hidden] (Hide now for [A] to react with later for [0].)\n\nChoose a battlefield. An opponent reveals their hand. You may choose a unit from it. They play that unit to that battlefield, ignoring any and all costs. When they do, [Stun] it. (It doesn't deal combat damage this turn.)",
+      "new_text": "[Hidden] (Hide now for [A] to react with later for [0].)\n\nChoose a battlefield. An opponent reveals their hand. You may choose a unit from it. They play that unit to that battlefield, ignoring any and all costs. If they do, then do this: [Stun] it. (It doesn't deal combat damage this turn.)"
+    },
+    {
+      "card": "Leblanc, Deceiver",
+      "set": "Unleashed",
+      "old_text": "When you conquer or hold, you may discard 1 and exhaust me to play a ready Reflection unit token there. It becomes a copy of another unit there. Give it [Temporary].",
+      "new_text": "When you conquer or hold, you may discard 1 and exhaust me to play a ready Reflection unit token there. Then do this: It becomes a copy of another unit there. Give it [Temporary]."
+    },
+    {
+      "card": "Mirror Image",
+      "set": "Unleashed",
+      "old_text": "Choose a unit. Play a ready Reflection unit token to your base. It becomes a copy of that unit. Give it [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)",
+      "new_text": "Choose a unit. Play a ready Reflection unit token to your base. Then do this: It becomes a copy of that unit. Give it [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)"
+    },
+    {
+      "card": "Keeper of Masks",
+      "set": "Unleashed",
+      "old_text": "[Hidden] (Hide now for [A] to react with later for [0].)\n\n[Temporary] (Kill me at the start of my controller's Beginning Phase, before scoring.)\n\nWhen you play me, play two Reflection unit tokens here. They become copies of me.",
+      "new_text": "[Hidden] (Hide now for [A] to react with later for [0].)\n\n[Temporary] (Kill me at the start of my controller's Beginning Phase, before scoring.)\n\nWhen you play me, play two Reflection unit tokens here. Then do this: They become copies of me."
+    },
+    {
+      "card": "Rengar, Trophy Hunter",
+      "set": "Unleashed",
+      "old_text": "[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)\n\nI can be played to a battlefield where there are enemy units (even if you don't have units there).",
+      "new_text": "[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)\n\nI can [Ambush] to a battlefield where there are enemy units, even if you don't have units there."
+    }
+  ]
+}

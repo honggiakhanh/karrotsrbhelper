@@ -1,0 +1,101 @@
+{
+  "source": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
+  "errata": [
+    {
+      "card": "Falling Star",
+      "set": "Origin",
+      "old_text": "Do this twice:\n\nDeal 3 to a unit. (You can choose different units.)",
+      "new_text": "Deal 3 to a unit.\n\nDeal 3 to a unit."
+    },
+    {
+      "card": "Icathian Rain",
+      "set": "Origin",
+      "old_text": "Do this 6 times:\n\nDeal 2 to a unit. (You can choose different units.)",
+      "new_text": "Deal 2 to a unit.\n\nDeal 2 to a unit.\n\nDeal 2 to a unit.\n\nDeal 2 to a unit.\n\nDeal 2 to a unit.\n\nDeal 2 to a unit."
+    },
+    {
+      "card": "Reinforce",
+      "set": "Origin",
+      "old_text": "Look at the top 5 cards of your Main Deck. You may play a unit from among them. Its Energy cost is reduced by [5]. Then recycle the remaining cards.",
+      "new_text": "Look at the top 5 cards of your Main Deck. You may banish a unit from among them, then play it, reducing its cost by [5]. Recycle the remaining cards."
+    },
+    {
+      "card": "Arise!",
+      "set": "Spiritforged",
+      "old_text": "Play a 2 [M] Sand Soldier unit token for each Equipment you control. Then ready two of them.",
+      "new_text": "Play a 2 [M] Sand Soldier unit token for each Equipment you control. Then do this: Ready up to two of them."
+    },
+    {
+      "card": "Blood Rush",
+      "set": "Spiritforged",
+      "old_text": "[Action] (Play on your turn or in showdowns.)\n\n[Repeat] [1] (You may pay the additional cost to repeat this spell's effect.)\n\nGive a unit [Assault 2]. (+2 [M] while it's an attacker.)",
+      "new_text": "[Action] (Play on your turn or in showdowns.)\n\n[Repeat] [1] (You may pay the additional cost to repeat this spell's effect.)\n\nGive a unit [Assault 2] this turn. (+2 [M] while it's an attacker.)"
+    },
+    {
+      "card": "Deathgrip",
+      "set": "Spiritforged",
+      "old_text": "[Reaction] (Play any time, even before spells and abilities resolve.)\n\nKill a friendly unit to give +[M] equal to its Might to another friendly unit this turn. Draw 1.",
+      "new_text": "[Reaction] (Play any time, even before spells and abilities resolve.)\n\nKill a friendly unit. If you do, give +[M] equal to its Might to another friendly unit this turn.\n\nDraw 1."
+    },
+    {
+      "card": "Edge of Night",
+      "set": "Spiritforged",
+      "old_text": "[Hidden] (Hide now for [A] to react with later for [0].)\n\nWhen you play this from face down, attach it to a unit you control here.\n\n[Equip] [C] ([C]: Attach this to a unit you control.)",
+      "new_text": "[Hidden] (Hide now for [A] to react with later for [0].)\n\nWhen you play this from face down, attach it to a unit you control (here).\n\n[Equip] [C] ([C]: Attach this to a unit you control.)"
+    },
+    {
+      "card": "Janna, Savior",
+      "set": "Spiritforged",
+      "old_text": "[Reaction] (Play any time, even before spells and abilities resolve, including to a battlefield you control.)\n\nWhen you play me, heal your units here, then move an enemy unit from here to its base.",
+      "new_text": "[Reaction] (Play any time, even before spells and abilities resolve, including to a battlefield you control.)\n\nWhen you play me, heal your units here, then move up to one enemy unit from here to its base."
+    },
+    {
+      "card": "Jax, Unmatched",
+      "set": "Spiritforged",
+      "old_text": "[Deflect] (Opponents must pay [A] to choose me with a spell or ability.)\n\nEach Equipment in your hand has [Quick-Draw]. (It gains [Reaction]. When you play it, attach it to a unit you control.)",
+      "new_text": "[Deflect] (Opponents must pay [A] to choose me with a spell or ability.)\n\nYour Equipment everywhere have [Quick-Draw]. (Each gains [Reaction]. When you play it, attach it to a unit you control.)"
+    },
+    {
+      "card": "Kato the Arm",
+      "set": "Spiritforged",
+      "old_text": "[Deflect] (Opponents must pay [A] to choose me with a spell or ability.)\n\nWhen I move to a battlefield, give a friendly unit my keywords and +[M] equal to my Might this turn.",
+      "new_text": "[Deflect] (Opponents must pay [A] to choose me with a spell or ability.)\n\nWhen I move to a battlefield, give another friendly unit my keywords and +[M] equal to my Might this turn."
+    },
+    {
+      "card": "Rek’Sai, Swarm Queen",
+      "set": "Spiritforged",
+      "old_text": "When I attack, you may reveal the top 2 cards of your Main Deck. You may play one. Then recycle the rest. If the played card is a unit, you may play it here.",
+      "new_text": "When I attack, you may reveal the top 2 cards of your Main Deck. You may banish one, then play it. If it is a unit, you may play it here. Recycle the rest."
+    },
+    {
+      "card": "Rell, Magnetic",
+      "set": "Spiritforged",
+      "old_text": "[Tank] (I must be assigned combat damage first.)\n\nWhen I attack, you may play an Equipment with Energy cost no more than [2], ignoring its cost, and attach it to me.",
+      "new_text": "[Tank] (I must be assigned combat damage first.)\n\nWhen I attack, you may play an Equipment with Energy cost no more than [2], ignoring its cost. If you do, then do this: Attach it to me."
+    },
+    {
+      "card": "Tianna Crownguard",
+      "set": "Spiritforged",
+      "old_text": "[Deflect] (Opponents must pay [A] to choose me with a spell or ability.)\n\nWhile I'm at a battlefield, opponents can't score points.",
+      "new_text": "[Deflect] (Opponents must pay [A] to choose me with a spell or ability.)\n\nWhile I'm at a battlefield, opponents can't gain points."
+    },
+    {
+      "card": "Void Burrower",
+      "set": "Spiritforged",
+      "old_text": "When you conquer, you may exhaust me to reveal the top 2 cards of your Main Deck. You may play one. Then recycle the rest.",
+      "new_text": "When you conquer, you may exhaust me to reveal the top 2 cards of your Main Deck. You may banish one, then play it. Recycle the rest."
+    },
+    {
+      "card": "Void Rush",
+      "set": "Spiritforged",
+      "old_text": "Reveal the top 2 cards of your Main Deck. You may play one of them, reducing its cost by [2]. Draw any you did not play this way.",
+      "new_text": "Reveal the top 2 cards of your Main Deck. You may banish one, then play it, reducing its cost by [2]. Draw any you didn't banish."
+    },
+    {
+      "card": "Yone, Blademaster",
+      "set": "Spiritforged",
+      "old_text": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for [A] less, even if it's already attached.)\n\nWhen I conquer an open battlefield, deal damage equal to my Might to an enemy unit in a base.",
+      "new_text": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for [A] less, even if it's already attached.)\n\nWhen I conquer a battlefield that was uncontrolled, deal damage equal to my Might to an enemy unit in a base."
+    }
+  ]
+}
